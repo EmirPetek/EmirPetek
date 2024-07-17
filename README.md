@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **advanced Kotlin**
 
-- 💬 Ask me about **Android, Kotlin, SQL, Firebase,**
+- 💬 Ask me about **Android, Kotlin, SQL, Firebase, Computer Engineering, Software Engineering**
 
 - 📫 How to reach me **emirpetek2002@gmail.com**
 
