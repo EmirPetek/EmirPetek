@@ -60,12 +60,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=emirpetek&show_icons=true&theme=transparent" />
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=emirpetek&layout=compact&theme=transparent" />
-</p>
+![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=emirpetek&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirpetek&layout=compact&theme=transparent)
 
 ---
 
