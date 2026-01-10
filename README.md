@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently learning **Advanced Kotlin & Multiplatform Development**  
+- 🌱 Currently working on **Advanced Kotlin Multiplatform and Android Development & Backend Development**  
 - 💬 Ask me about **Android, Kotlin, SQL, Firebase, Software Engineering**  
 - 🎵 Fun fact: **I play drums, guitar, and piano. I also love travelling.**  
 - 📫 Reach me at **emirpetek2002@gmail.com**
